@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Performance", "Performance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnoDesigner.Core", "AnnoDesigner.Core\AnnoDesigner.Core.csproj", "{C73FBFF0-1A11-40FC-8F1F-29637699419A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "Benchmark\Benchmark.csproj", "{778553D5-AB44-459F-AC80-E71BD126FDE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C73FBFF0-1A11-40FC-8F1F-29637699419A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C73FBFF0-1A11-40FC-8F1F-29637699419A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C73FBFF0-1A11-40FC-8F1F-29637699419A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778553D5-AB44-459F-AC80-E71BD126FDE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778553D5-AB44-459F-AC80-E71BD126FDE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778553D5-AB44-459F-AC80-E71BD126FDE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778553D5-AB44-459F-AC80-E71BD126FDE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
