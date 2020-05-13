@@ -255,8 +255,13 @@
   <ItemGroup>
     <Compile Include="BenchmarkBreadthFirstSearch.cs" />
     <Compile Include="BenchmarkPrepareGridDictionary.cs" />
+    <Compile Include="BreadthFirst\New_Repo_Try02.cs" />
+    <Compile Include="BreadthFirst\Original_PR_Updated_Try02.cs" />
+    <Compile Include="BreadthFirst\Original_PR_Updated_Try01.cs" />
+    <Compile Include="BreadthFirst\Original_PR_Updated.cs" />
+    <Compile Include="BreadthFirst\New_Repo_Try01.cs" />
     <Compile Include="BreadthFirst\Original_PR.cs" />
-    <Compile Include="BreadthFirst\Original.cs" />
+    <Compile Include="BreadthFirst\New_Repo_Original.cs" />
     <Compile Include="PrepareGrid\Try04.cs" />
     <Compile Include="PrepareGrid\Try03.cs" />
     <Compile Include="PrepareGrid\Try02.cs" />

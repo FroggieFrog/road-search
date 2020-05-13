@@ -5,7 +5,7 @@ using AnnoDesigner.Core.Models;
 
 namespace Benchmark.BreadthFirst
 {
-    public static class Original
+    public static class New_Repo_Original
     {
         private static void DoNothing(AnnoObject objectInRange) { }
 
